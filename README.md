@@ -8,8 +8,8 @@
 
 ### result
 
-![result](result/1.bmp)
-![result](result/2.bmp)
-![result](result/3.bmp)
-![result](result/4.bmp)
-![result](result/5.bmp)
+![result](Result/1.bmp)
+![result](Result/2.bmp)
+![result](Result/3.bmp)
+![result](Result/4.bmp)
+![result](Result/5.bmp)
